@@ -1,0 +1,68 @@
+*{
+    margin:0;
+    padding:0;
+    text-align:center;
+    
+}
+
+h1{
+    font-family: 'Berkshire Swash', serif;
+    margin:30px;
+}
+
+
+
+
+.font{
+    width:230px;
+    height: 270px;
+    border:1px solid grey;
+    margin:20px auto;
+    margin-top: 200px;
+    padding:9px 7px 0px 8px;
+
+}
+#form{
+    margin:10px;
+
+}
+.container{
+    display: grid;
+}
+button{
+    width:165px;
+    height:20px;
+    margin:8Px 40PX 8PX 40px;
+    background-color:#00BFFF;
+    color:white;
+    border-radius:5px;
+    cursor: pointer;
+}
+button a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.two{
+    border:1px solid grey;
+    width:230px;
+    height:50px;
+    margin: 20px auto;
+    padding:9px 7px 0px 8px;
+    font-size:13px;
+    text-align:center;
+}
+.two a{
+    text-decoration:none;
+}
+.facebook a{
+    text-decoration:none;
+    margin:10px auto;
+}
+#password{
+    margin:5px auto;
+}
+
+#font input{
+    padding: 6px;
+}
